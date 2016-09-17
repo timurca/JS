@@ -10,7 +10,3 @@ function fn_1(x) {
 var phone = "905-761-9999";
 var run = fn_1(phone);
 console.log(this.run + ' Global Execution Context');
-
-var tata= function wendy(){
-	console.log('hi')
-};
