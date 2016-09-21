@@ -1,3 +1,5 @@
+// pass multipe vars to 1 function
+
 var phone = "647 438 0002";
 var bridge = "123456";
 
