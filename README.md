@@ -7,3 +7,8 @@ JavaScript: Understanding the Weird Parts
 Highest (19) to lowest (0) precedence.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness">Equality comparisons and sameness</a>
+
+
+---
+<a href="http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/">12 Simple (Yet Powerful) JavaScript Tips</a>
+
