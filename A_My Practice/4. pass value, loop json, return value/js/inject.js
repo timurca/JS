@@ -21,9 +21,8 @@ selectedDevice = "IP5S32SIL";
     function fn_getdata(rec_var1) {
         for (var i = 0; i < data.phones.length; i++) {
             if (data.phones[i].deviceSKU == selectedDevice) {
-                getprice = getprice.replace('[deviceDollars]', data.phones[
-                    i].deviceDollars).replace('[deviceCents]', data
-                    .phones[i].deviceCents);
+                getprice = getprice.replace('[deviceDollars]', data.phones[i].deviceDollars)
+                .replace('[deviceCents]', data.phones[i].deviceCents);
                 // console.log(data.phones[i].deviceDollars);
                 // console.log(data.phones[i].deviceCents);
                 return getprice;
