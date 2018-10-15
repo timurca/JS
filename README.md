@@ -12,3 +12,7 @@ Highest (19) to lowest (0) precedence.
 ---
 <a href="http://javascriptissexy.com/12-simple-yet-powerful-javascript-tips/">12 Simple (Yet Powerful) JavaScript Tips</a>
 
+<a href="https://github.com/leonardomso/33-js-concepts">33 concepts every JavaScript developer should know</a>
+
+
+
